@@ -1,0 +1,31 @@
+/* Layout */
+
+body {
+    font:normal 12px/1.6em Arial, Helvetica, sans-serif;
+	color:black;
+	margin:0;
+	padding:0;
+	background:#FFFFFF;
+}
+
+p {
+	margin:0;
+	padding:0;
+}
+
+#wrapper {
+	margin:0 auto;
+	width:632px;
+	border-left:1px solid #f0e9eb;
+	border-right:1px solid #f0e9eb;
+}
+
+#header {
+	margin:0 1px;
+}
+h1 {
+	color:blue;
+	margin:0 0 10px;
+	padding-bottom:10px;
+	font:normal 17px Georgia, serif;
+}
